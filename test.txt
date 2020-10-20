@@ -6,3 +6,8 @@ I'm going to add a line that I'm pretty sure works better
 Hello!
 
 adding another line to this file
+
+(I barely know how to use vim...)
+
+Here's a new change that kevin doesn't have yet
+
